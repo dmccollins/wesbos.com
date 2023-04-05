@@ -1,2 +1,2 @@
 # wesbos.com
-Wes Bus projects and tutorials
+Wes Bos projects and tutorials
